@@ -40,5 +40,26 @@ body {
     text-align: center;
     font-size: 25px;
     font-weight: 300;
-    margin-top: 20px;
+    margin-top: 25px;
+}
+
+
+
+
+#img {
+    width: 350px;
+}
+
+.display2 {
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    margin-top: 77px;
+}
+
+#pera2 {
+    line-height: 30px;
+}
+
+.h3 {
+    font-weight: 700;
+    font-size: 60px;
 }
