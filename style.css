@@ -61,5 +61,43 @@ body {
 
 .h3 {
     font-weight: 700;
-    font-size: 60px;
+    font-size: 40px;
+}
+
+
+
+.middle {
+    text-align: center;
+    margin-top: 45px;
+}
+
+#specialP {
+    text-align: center;
+    margin-bottom: 60px;
+    line-height: 30px;
+    color: #828282;
+}
+
+.display3 {
+    display: flex;
+    justify-content: center;
+}
+
+.pic {
+    height: 308px;
+    width: 550px;
+    padding-top: 20px;
+}
+
+.h4 {
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.inrerDiv {
+    width: 610px;
+    height: 580px;
+    border-radius: 25px;
+    padding-left: 44px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.418);
 }
