@@ -1,0 +1,26 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.h1 {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.display {
+    display: flex;
+
+}
+
+#pera {
+    font-size: medium;
+    font-weight: 200;
+}
+
+.half-width {
+    width: 50%;
+}
+
+#img {
+    background-image: url(images/shapes/Group\ 8450.png);
+}
