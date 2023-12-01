@@ -1,5 +1,6 @@
 body {
     font-family: 'Oswald', sans-serif;
+    margin: 0;
 }
 
 .h1 {
@@ -127,4 +128,17 @@ body {
 .user {
     padding-left: 130px;
     padding-right: 130px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+footer p {
+    font-weight: 100;
 }
